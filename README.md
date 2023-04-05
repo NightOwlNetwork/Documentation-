@@ -13,4 +13,4 @@
 ![before](https://github.com/NightOwlNetwork/Documentation-/blob/main/topologybefore.png)
 ## VPN Topology
 ![After](https://github.com/NightOwlNetwork/Documentation-/blob/main/VPN%20Topology.png)
-![After OpenVpn/CaptivePortal/FreeRADIUS]()
+![After OpenVpn/CaptivePortal/FreeRADIUS](https://github.com/NightOwlNetwork/Documentation-/blob/main/Topology%20After.drawio.pdf-Page-1.drawio.png)
