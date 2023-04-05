@@ -11,5 +11,5 @@
 
 ## Topology before
 ![before](https://github.com/NightOwlNetwork/Documentation-/blob/main/topologybefore.png)
-## Topology After
+## VPN Topology
 ![After](https://github.com/NightOwlNetwork/Documentation-/blob/main/VPN%20Topology.png)
