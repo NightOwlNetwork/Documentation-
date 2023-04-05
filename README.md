@@ -8,3 +8,6 @@
 | Geneva Knott  | [ Network Topology VPN Tunnel](https://github.com/NightOwlNetwork/Documentation-/blob/main/VPN%20Topology.png)      | Physical Topology-VPN   |
 | Nick Alderete | [Network Infastructure](https://github.com/NightOwlNetwork/Documentation-/blob/main/Network%20Infastructure.xlsx)     | Network Details List    |
 |  | []()     |     |
+
+## Topology After
+![After](https://github.com/NightOwlNetwork/Documentation-/blob/main/VPN%20Topology.png)
