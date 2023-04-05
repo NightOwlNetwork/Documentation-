@@ -9,5 +9,7 @@
 | Nick Alderete | [Network Infastructure](https://github.com/NightOwlNetwork/Documentation-/blob/main/Network%20Infastructure.xlsx)     | Network Details List    |
 |  | []()     |     |
 
+## Topology before
+![before](https://github.com/NightOwlNetwork/Documentation-/blob/main/topologybefore.png)
 ## Topology After
 ![After](https://github.com/NightOwlNetwork/Documentation-/blob/main/VPN%20Topology.png)
