@@ -7,7 +7,7 @@
 | Full Team    | [Powerpoint.pdf](https://github.com/NightOwlNetwork/Documentation-/blob/main/Project%202.pdf)  | Team Powerpoint  |
 | Geneva Knott | [Topology Before](https://github.com/NightOwlNetwork/Documentation-/blob/main/Topology%20Before.pdf)      |Physical Topology before Implementation |
 | Geneva Knott  | [ Network Topology VPN Tunnel](https://github.com/NightOwlNetwork/Documentation-/blob/main/Topology%20After.png)      | Physical with Implementated software  |
-| Nick Alderete | [Network Infastructure](https://github.com/NightOwlNetwork/Documentation-/blob/main/Network%20Infastructure.xlsx)     | Network Details List    |
+| Nick Alderete | [Network Infastructure](https://github.com/NightOwlNetwork/Documentation-/blob/main/Network%20Chart.png)     | Network Details List    |
 |  | []()     |     |
 
 ## Topology before
