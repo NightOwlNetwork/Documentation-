@@ -16,3 +16,8 @@
 
 ## Final Topology
 ![After OpenVpn/CaptivePortal/FreeRADIUS](https://github.com/NightOwlNetwork/Documentation-/blob/main/Topology%20After.png)
+
+
+
+## 
+![Chart](https://github.com/NightOwlNetwork/Documentation-/blob/main/Network%20Chart.png)
