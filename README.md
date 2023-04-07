@@ -17,7 +17,7 @@ CleanPower was working on a basic hierarchical network infrastructure. At the ce
 
 ## Final Topology
 ![After OpenVpn/CaptivePortal/FreeRADIUS](https://github.com/NightOwlNetwork/Documentation-/blob/main/Topology%20After.png)
-Overall, the changes made to the Night Owl Network topology appear to be aimed at increasing scalability, redundancy, and security, while also adding support for wireless devices.
+Overall, the changes made by Night Owl Network topology are aimed at increasing scalability, redundancy, and security, while also adding support for wireless devices. The network topology diagram was designed for an OpenVPN connection between two sites using pfSense firewalls. The network consist of two sites: Site 1 and site 2. Each site has it's own network with several devices connected to it. the routers are using pfsense firewall depicted by the blue router on the topology. The router is responsible for connecting the LAN network to the internet. The two sites are connected via an OpenVPN tunnel, which is represented by the tunnel connecting the two pfSense firewalls. This tunnel provides a secure and encrypted connection between the two sites, allowing users at each site to access resources on the other site's LAN network. The network used by CleanPower has been updated to connect two sites over the internet using OpenVPN and pfSense firewalls.
 
 
 ## 
