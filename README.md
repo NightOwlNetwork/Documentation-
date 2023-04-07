@@ -22,3 +22,4 @@ Overall, the changes made by Night Owl Network topology are aimed at increasing 
 
 ## 
 ![Chart](https://github.com/NightOwlNetwork/Documentation-/blob/main/Network%20Chart.png)
+The table is a network chart that lists various devices and their corresponding IP addresses on the CleanPower Network. This table provides a clear and organized overview of the CleanPower's devices and their corresponding IP addresses, which is used by Night Owl Network team to manage and maintain the network.
